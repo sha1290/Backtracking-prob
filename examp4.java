@@ -1,4 +1,5 @@
 package Backtracking;
+//nqueen problem 
 
 public class examp4 {
     public static boolean isSafe(char board[][], int row, int col){
